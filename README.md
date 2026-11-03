@@ -11,6 +11,19 @@ I bought an [iBook G3 "Snow"](https://everymac.com/systems/apple/ibook/specs/ibo
 * [Booted Arch POWER without repartitioning](https://github.com/vasi/hfswrap), using a loopback boot device and some cursed boot hooks.
 * [Rescued old PowerPC Linux releases](#software-archives), including several versions of Yellow Dog Linux.
 
+# Table of contents
+
+* [Highlights](#highlights)
+* [Hardware](#hardware)
+* [My Linux hacks](#my-linux-hacks)
+  * [Things I substantially built](#things-i-substantially-built)
+  * [Important patches, accepted upstream](#important-patches-accepted-upstream)
+  * [Arch POWER packages](#arch-power-packages)
+* [Operating systems](#operating-systems)
+* [Other people's cool open-source software](#other-peoples-cool-open-source-software)
+  * [Modern browsers](#modern-browsers)
+* [Software archives](#software-archives)
+
 # Hardware
 
 * Model: PowerBook4,1 M6497
