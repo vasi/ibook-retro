@@ -86,6 +86,18 @@ I've also tested booting a few random things:
 * Lubuntu 16.04
 * Netbooting: OS 9, Tiger, and even Arch POWER
 
+# Other people's cool open-source software
+
+I've tried lots of hacks and tools that other people built. Here are some I liked:
+
+* [Arch POWER](https://archlinuxpower.org/): Modern Linux, but on PowerPC. Runs on several different sub-architectures. Includes prebuilt packages of things like web browsers, desktop environments, etc. Because it's Arch, it's easy to modify, and easy to create my own packages.
+* [Browservice](https://github.com/ttalvitie/browservice): Runs a modern browser engine on a Raspberry Pi, and exporting a UI that's intelligible to historical browsers like Safari or Firefox 1.0.
+* [tigerbrew](https://github.com/mistydemeo/tigerbrew): A shockingly reasonable package manager for Mac OS 10.4, including some prebuilt packages.
+* <img src="img/trinity.jpg" width="300" align="right" alt="Trinity Desktop"/> [Trinity Desktop](https://www.trinitydesktop.org/): A fork of KDE 3, still maintained and updated. Still has support for many odd things that modern desktops don't, such as battery-level indicators for PowerPC Macs.
+* [Kate](https://kate-editor.org/), the KDE code editor. You can run a modern [LSP](https://en.wikipedia.org/wiki/Language_Server_Protocol) for programming language support, on a 25-year-old laptop!
+* [netatalk](https://netatalk.io/), which allows Mac OS 9/X to share files with a modern Linux computer.
+* [Realtek wireless drivers on Linux](https://wireless.docs.kernel.org/en/latest/en/users/drivers/rtl819x.html): Even though the machine only has an obsolete WEP chip, I can use a little USB wireless dongle and connect via WPA.
+* [JWM](https://joewing.net/projects/jwm/): A hyper-lightweight X11 window manager, which still supports a surprising amount of functionality.
 
 ## Modern browsers
 
@@ -107,19 +119,6 @@ Arch POWER:
 * [Phantom Satellite](https://github.com/DCFUKSURMOM/Phantom-Satellite) works the best
 * links2 and dillo are fast, if limited
 * Ok, but less good: Basilisk, ArcticFox, SeaLion
-
-# Other people's cool software
-
-I've tried lots of hacks and tools that other people built. Here are some I liked:
-
-* [Arch POWER](https://archlinuxpower.org/): Modern Linux, but on PowerPC. Runs on several different sub-architectures. Includes prebuilt packages of things like web browsers, desktop environments, etc. Because it's Arch, it's easy to modify, and easy to create my own packages.
-* [Browservice](https://github.com/ttalvitie/browservice): Runs a modern browser engine on a Raspberry Pi, and exporting a UI that's intelligible to historical browsers like Safari or Firefox 1.0.
-* [tigerbrew](https://github.com/mistydemeo/tigerbrew): A shockingly reasonable package manager for Mac OS 10.4, including some prebuilt packages.
-* <img src="img/trinity.jpg" width="300" align="right" alt="Trinity Desktop"/> [Trinity Desktop](https://www.trinitydesktop.org/): A fork of KDE 3, still maintained and updated. Still has support for many odd things that modern desktops don't, such as battery-level indicators for PowerPC Macs.
-* [Kate](https://kate-editor.org/), the KDE code editor. You can run a modern [LSP](https://en.wikipedia.org/wiki/Language_Server_Protocol) for programming language support, on a 25-year-old laptop!
-* [netatalk](https://netatalk.io/), which allows Mac OS 9/X to share files with a modern Linux computer.
-* [Realtek wireless drivers on Linux](https://wireless.docs.kernel.org/en/latest/en/users/drivers/rtl819x.html): Even though the machine only has an obsolete WEP chip, I can use a little USB wireless dongle and connect via WPA.
-* [JWM](https://joewing.net/projects/jwm/): A hyper-lightweight X11 window manager, which still supports a surprising amount of functionality.
 
 # Software archives
 
