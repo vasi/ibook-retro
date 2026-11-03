@@ -6,10 +6,10 @@ I bought an [iBook G3 "Snow"](https://everymac.com/systems/apple/ibook/specs/ibo
 
 * [Got fixes into the Linux kernel and GRUB](#important-patches-accepted-upstream)
 * [Built a multi-OS boot chooser](https://github.com/vasi/ofchooser), with custom keyboard shortcuts and room for as many OSes as you want.
-* [Revived SheepShaver's native PowerPC mode](https://github.com/kanjitalk755/macemu/pull/302), running Mac OS 9 on PowerPC Linux after years of bit rot.
+* [Revived SheepShaver's native PowerPC mode](https://github.com/kanjitalk755/macemu/pull/302), running Mac OS 9 at native speeds on PowerPC Linux after over a decade of bit rot.
 * [Packaged software that makes this old Mac useful](#arch-power-packages), from a full office suite to Docker-compatible containers.
 * [Booted Arch POWER without repartitioning](https://github.com/vasi/hfswrap), using a loopback boot device and some cursed boot hooks.
-* [Rescued old PowerPC Linux releases](#software-archives), including Yellow Dog installer images and package repositories.
+* [Rescued old PowerPC Linux releases](#software-archives), including several versions of Yellow Dog Linux.
 
 # Hardware
 
